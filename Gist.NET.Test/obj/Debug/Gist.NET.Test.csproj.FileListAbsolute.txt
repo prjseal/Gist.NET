@@ -1,0 +1,14 @@
+D:\paul\Documents\GitHub\Gist.NET\Gist.NET.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\paul\Documents\GitHub\Gist.NET\Gist.NET.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\paul\Documents\GitHub\Gist.NET\Gist.NET.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\paul\Documents\GitHub\Gist.NET\Gist.NET.Test\bin\Debug\Gist.NET.Test.dll
+D:\paul\Documents\GitHub\Gist.NET\Gist.NET.Test\bin\Debug\Gist.NET.Test.pdb
+D:\paul\Documents\GitHub\Gist.NET\Gist.NET.Test\bin\Debug\Gist.NET.dll
+D:\paul\Documents\GitHub\Gist.NET\Gist.NET.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\paul\Documents\GitHub\Gist.NET\Gist.NET.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\paul\Documents\GitHub\Gist.NET\Gist.NET.Test\bin\Debug\Gist.NET.pdb
+D:\paul\Documents\GitHub\Gist.NET\Gist.NET.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\paul\Documents\GitHub\Gist.NET\Gist.NET.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\paul\Documents\GitHub\Gist.NET\Gist.NET.Test\obj\Debug\Gist.NET.Test.csprojResolveAssemblyReference.cache
+D:\paul\Documents\GitHub\Gist.NET\Gist.NET.Test\obj\Debug\Gist.NET.Test.dll
+D:\paul\Documents\GitHub\Gist.NET\Gist.NET.Test\obj\Debug\Gist.NET.Test.pdb
